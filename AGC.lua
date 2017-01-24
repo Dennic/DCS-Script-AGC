@@ -1,7 +1,9 @@
 -- DCS 机场地面控制
 -- DCS Airfield Ground Controller
+
 -- Version 1.0
--- By Dennic
+
+-- By Dennic - https://github.com/Dennic/DCS-Script-AGC
 
 agc  = {}
 
